@@ -1,0 +1,12 @@
+# # ProfileImage
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**typeOf** | **string** |  | [optional]
+**imageOf** | **string** | Discriminates what is the type of the profile image owner (user or organization) | [optional]
+**profileImage** | **string** | Profile image (640x640) | [optional]
+**profileImage90** | **string** | Profile image (90x90) | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

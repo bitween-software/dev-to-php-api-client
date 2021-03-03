@@ -1,0 +1,5 @@
+invokerPackage: Bitween\DevTo
+srcBasePath: src
+variableNamingConvention: camelCase
+gitUserId: bitween-software
+gitRepoId: dev-to-open-api-client
